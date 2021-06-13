@@ -9,5 +9,13 @@ This project uses facenet model and fgnet dataset.
 the dataset can be found on this link.
 URL: http://yanweifu.github.io/FG_NET_data/FGNET.zip
 
+I have split the dataset manually placing all images below age 18 in train dataset and above in testing dataset
+
+
+## output 
+
+Accuracy of 99% achieved on fgnet dataset 
+Accuracy of 95~96% achieved on custom dataset
+
 
 
